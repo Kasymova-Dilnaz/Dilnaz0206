@@ -1,2 +1,2 @@
-#Colors detection
-# Dilnaz0206
+#Dilna_project
+# Color Detection
